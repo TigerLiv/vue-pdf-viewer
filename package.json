@@ -1,0 +1,30 @@
+{
+  "name": "pdf-viewer",
+  "version": "1.0.0",
+  "description": "pdf viewer based on pdfjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.shannonai.com/frontend/pdf-viewer.git"
+  },
+  "keywords": [
+    "pdf",
+    "viewer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pdfjs-dist": "^2.1.266"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "css-loader": "^3.2.0",
+    "ora": "^3.4.0",
+    "rimraf": "^3.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.39.2"
+  }
+}
