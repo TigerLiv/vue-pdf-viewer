@@ -16,7 +16,7 @@ npm install --save vue-pdf-viewer-package
 
 
 ```
-import pdfViewer from 'vue-pdf-viewer-package'
+import pdfViewer from 'vue-pdf-viewer-package/src'
 
 export default{
   data(){
