@@ -1,6 +1,6 @@
 {
-  "name": "pdf-viewer",
-  "version": "1.0.0",
+  "name": "vue-pdf-viewer-package",
+  "version": "1.0.1",
   "description": "pdf viewer based on pdfjs",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.shannonai.com/frontend/pdf-viewer.git"
+    "url": "https://github.com/TigerLiv/vue-pdf-viewer.git"
   },
   "keywords": [
     "pdf",
