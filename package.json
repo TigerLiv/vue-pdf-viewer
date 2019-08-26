@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-viewer-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "pdf viewer based on pdfjs",
   "main": "index.js",
   "scripts": {
